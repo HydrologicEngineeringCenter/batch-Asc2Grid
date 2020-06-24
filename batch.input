@@ -1,0 +1,4 @@
+zlib=true , GRID=SHG , in=test.asc , dss=t1.dss , path=/SHG/deschutes/PRECIPAH-PER-CUM/30Sep1996:2300/01Oct1996:0000/ASCII-1/ , DUNITS=mm , DTYPE=PER-CUM
+zlib=true , GRID=SHG , in=test.asc , dss=t1.dss , path=/SHG/deschutes/PRECIPAH-PER-CUM/30Sep1996:2300/01Oct1996:0000/ASCII-2/ , DUNITS=mm , DTYPE=PER-CUM
+zlib=true , GRID=SHG , in=test.asc , dss=t1.dss , path=/SHG/deschutes/PRECIPAH-PER-CUM/30Sep1996:2300/01Oct1996:0000/ASCII-3/ , DUNITS=mm , DTYPE=PER-CUM
+zlib=true , GRID=SHG , in=test.asc , dss=t1.dss , path=/SHG/deschutes/PRECIPAH-PER-CUM/30Sep1996:2300/01Oct1996:0000/ASCII-4/ , DUNITS=mm , DTYPE=PER-CUM
