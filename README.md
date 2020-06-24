@@ -2,6 +2,8 @@
 
 import ESRI ASCII format grids into DSS  http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_analyst_tools/esri_ascii_raster_format.htm
 
+tested on CentOS 7, and Windows 10.
+
 DSS binaries are here:
 
 https://www.hec.usace.army.mil/nexus/#browse/browse:heclib:7-HT%2FLinux.zip
